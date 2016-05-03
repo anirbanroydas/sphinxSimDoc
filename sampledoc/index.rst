@@ -38,6 +38,7 @@ This documentation is also available in `PDF <https://readthedocs.org/projects/t
    :titlesonly:
    
    guide
+   README
    getting_started
    custom_look
 
