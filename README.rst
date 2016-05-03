@@ -50,7 +50,7 @@ For installing pip, follow the bellow methods:
 
  * **Method 1 -**  https://pip.pypa.io/en/stable/installing/
  * **Method 2 -** http://ask.xmodulo.com/install-pip-linux.html
- * **Method 3 -** If you installed python on MAC OS X via ``brew install pyton``, then pip is already installed  along with python.
+ * **Method 3 -** If you installed python on MAC OS X via ``brew install python``, then pip is already installed  along with python.
 
 
 ------
