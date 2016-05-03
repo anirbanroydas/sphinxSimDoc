@@ -3,6 +3,7 @@ sphinxSimDoc
 ============
 
 A collection of simple docs built from scratch using sampledocs from Sphinx and also by using Sphinx.
+
 **Documentation :**  http://sphinxsimdoc.readthedocs.io/en/latest/
 
 --------
