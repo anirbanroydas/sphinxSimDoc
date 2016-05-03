@@ -2,7 +2,7 @@
 sphinxSimDoc
 ============
 
-A collection of simple docs build from scratch using sampledocs from Sphinx and also by using Sphinx.
+A collection of simple docs built from scratch using sampledocs from Sphinx and also by using Sphinx.
 
 --------
 Details

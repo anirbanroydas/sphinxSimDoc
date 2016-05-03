@@ -17,7 +17,7 @@ sphinxSimDoc  Documentation
 .. |SphinxSimDoc| image:: _static/sphinx.png
     :alt: SphinxSimDoc
 
-A collection of simple docs build from scratch using sampledocs from `Sphinx <http://www.sphinx-doc.org/en/stable/index.html>`_ and also by using `Sphinx <http://www.sphinx-doc.org/en/stable/index.html>`_.
+A collection of simple docs built from scratch using sampledocs from `Sphinx <http://www.sphinx-doc.org/en/stable/index.html>`_ and also by using `Sphinx <http://www.sphinx-doc.org/en/stable/index.html>`_.
 
 Introduction
 ============
