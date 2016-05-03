@@ -57,8 +57,7 @@ For installing pip, follow the bellow methods:
 Usage
 ------
 
-* **Method 1 -** Follow the steps mentioned below to create this documentation, or
-* **Method 2 -** Go to the documentation page created by this documentation itself, its recursive, but the documentation helps in created this doumentation itself.
+Go to the documentation page created by this documentation itself, its recursive, but the documentation helps in created this doumentation itself.
 
 
 -----
