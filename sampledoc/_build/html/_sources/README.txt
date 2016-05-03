@@ -59,6 +59,11 @@ Usage
 
 Go to the documentation page created by this documentation itself, its recursive, but the documentation helps in created this doumentation itself.
 
+--------------
+Documentation
+--------------
+
+The documentation link is `here <http://sphinxsimdoc.readthedocs.io/en/latest/>`_.
 
 -----
 TODO

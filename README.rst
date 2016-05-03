@@ -3,6 +3,7 @@ sphinxSimDoc
 ============
 
 A collection of simple docs built from scratch using sampledocs from Sphinx and also by using Sphinx.
+* **Documentation :** http://sphinxsimdoc.readthedocs.io/en/latest/
 
 --------
 Details
@@ -13,6 +14,7 @@ Details
 :Copyright(C): 2016, Anirban Roy Das <anirban.nick@gmail.com>
 
 Check sphinxSimDoc/LICENSE file for full Copyright notice.
+
 
 --------
 Overview
@@ -59,6 +61,11 @@ Usage
 
 Go to the documentation page created by this documentation itself, its recursive, but the documentation helps in created this doumentation itself.
 
+--------------
+Documentation
+--------------
+
+The documentation linke is `here <http://sphinxsimdoc.readthedocs.io/en/latest/>`_.
 
 -----
 TODO
